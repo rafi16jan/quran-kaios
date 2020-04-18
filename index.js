@@ -1,1 +1,1 @@
-location.href = 'https:/quranpwa.com';
+location.href = 'https://quranpwa.com';
